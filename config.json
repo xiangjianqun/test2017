@@ -1,0 +1,19 @@
+{
+    "userinfo": {
+        "host": "smtp.163.com",
+        "port": 465,
+        "secure": true,
+        "auth": {
+            "user": "15190303269@163.com",
+            "pass": "xiang.5201314"
+        }
+    },
+
+    "sendmailinfo": {
+        "from":"helloworld <15599098746@163.com>",
+        "to": "1175836323@qq.com",
+        "subject": "hello",
+        "text": "__________---------"
+    }
+
+}
